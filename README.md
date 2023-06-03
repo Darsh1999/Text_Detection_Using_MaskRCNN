@@ -411,6 +411,3 @@ class MicrocontrollerDataset(utils.Dataset):
         return info['path']
 ```
 
-Everything else stays the same as in the object detection example. You can find the full code in the [MaskRCNN Microcontroller Segmentation file](<MaskRCNN Microcontroller Segmentation.ipynb>).
-
-![](doc/microcontroller_segmentation.png)
